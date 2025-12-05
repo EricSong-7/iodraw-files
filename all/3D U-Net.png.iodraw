@@ -58,12 +58,6 @@
             <mxPoint x="40" y="1189.397590361446" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a6-Lg7otoZ1vh_CwONJT-27" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=50;exitDy=20;exitPerimeter=0;width=3.404255319148936;endSize=2.7148936170212763;endWidth=10.04074241738343;fillColor=#d5e8d4;strokeColor=#82b366;entryX=0;entryY=0;entryDx=0;entryDy=20;entryPerimeter=0;fontFamily=Times New Roman;fontSize=80;" edge="1" parent="1" source="a6-Lg7otoZ1vh_CwONJT-13" target="a6-Lg7otoZ1vh_CwONJT-15">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2211.0798076923074" y="3454.3493975903616" as="sourcePoint" />
-            <mxPoint x="2523.970721153846" y="3454.3493975903616" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="a6-Lg7otoZ1vh_CwONJT-46" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=68;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontSize=80;" vertex="1" parent="1">
           <mxGeometry x="2562.2838942307694" y="2658.0722891566265" width="446.98701923076925" height="255.42168674698794" as="geometry" />
         </mxCell>
