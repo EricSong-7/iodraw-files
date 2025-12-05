@@ -79,12 +79,6 @@
             <mxPoint x="2483.970721153846" y="3414.3493975903616" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a6-Lg7otoZ1vh_CwONJT-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=3.404255319148936;endSize=2.7148936170212763;endWidth=10.04074241738343;fillColor=#f8cecc;strokeColor=#b85450;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=80;" edge="1" parent="a6-Lg7otoZ1vh_CwONJT-119" source="a6-Lg7otoZ1vh_CwONJT-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="766.2634615384616" y="1698.55421686747" as="sourcePoint" />
-            <mxPoint x="383.1317307692308" y="1787.9518072289159" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="a6-Lg7otoZ1vh_CwONJT-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=3.404255319148936;endSize=2.7148936170212763;endWidth=10.04074241738343;fillColor=#f8cecc;strokeColor=#b85450;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=80;" edge="1" parent="a6-Lg7otoZ1vh_CwONJT-119">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1211.3348221153847" y="2369.0361445783133" as="sourcePoint" />
