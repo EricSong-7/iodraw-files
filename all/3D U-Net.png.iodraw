@@ -148,12 +148,6 @@
         <mxCell id="a6-Lg7otoZ1vh_CwONJT-77" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 80px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b style=&quot;font-size: 80px;&quot;&gt;16&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 80px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;: 1 * 721 * 1480&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Times New Roman;fontSize=80;" vertex="1" parent="1">
           <mxGeometry x="5914.6865384615385" y="1387.3493975903616" width="766.2634615384616" height="191.56626506024097" as="geometry" />
         </mxCell>
-        <mxCell id="a6-Lg7otoZ1vh_CwONJT-78" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=120;exitDy=40;exitPerimeter=0;width=3.404255319148936;endSize=2.7148936170212763;endWidth=10.04074241738343;fillColor=#d80073;strokeColor=#A50040;fontFamily=Times New Roman;fontSize=80;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="5723.120673076924" y="1189.397590361446" as="sourcePoint" />
-            <mxPoint x="5914.6865384615385" y="1189.397590361446" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="a6-Lg7otoZ1vh_CwONJT-79" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;endWidth=12.4;endSize=5.524;width=4.8;fontFamily=Times New Roman;fontSize=80;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4956.857211538461" y="1921.9469879518074" as="sourcePoint" />
