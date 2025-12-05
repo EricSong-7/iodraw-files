@@ -85,7 +85,7 @@
         <mxCell id="a6-Lg7otoZ1vh_CwONJT-55" value="&lt;b style=&quot;font-size: 80px;&quot;&gt;32 + 32&lt;/b&gt;: m * 360 * 740" style="whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Times New Roman;fontSize=80;" vertex="1" parent="1">
           <mxGeometry x="3105.0538461538463" y="2217.4698795180725" width="893.9740384615385" height="191.56626506024097" as="geometry" />
         </mxCell>
-        <mxCell id="a6-Lg7otoZ1vh_CwONJT-56" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontSize=80;" vertex="1" parent="1">
+        <mxCell id="a6-Lg7otoZ1vh_CwONJT-56" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=62;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontSize=80;" vertex="1" parent="1">
           <mxGeometry x="4062.8831730769234" y="1827.9518072289159" width="638.5528846153846" height="383.13253012048193" as="geometry" />
         </mxCell>
         <mxCell id="a6-Lg7otoZ1vh_CwONJT-57" value="&lt;b style=&quot;font-size: 80px;&quot;&gt;32&lt;/b&gt;: m * 360 * 740" style="whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Times New Roman;fontSize=80;" vertex="1" parent="1">
