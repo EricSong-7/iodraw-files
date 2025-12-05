@@ -310,7 +310,7 @@
         <mxCell id="a6-Lg7otoZ1vh_CwONJT-104" value="&lt;b&gt;Convolution Block&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="815" y="521" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="a6-Lg7otoZ1vh_CwONJT-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="a6-Lg7otoZ1vh_CwONJT-99">
+        <mxCell id="a6-Lg7otoZ1vh_CwONJT-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="a6-Lg7otoZ1vh_CwONJT-99" target="a6-Lg7otoZ1vh_CwONJT-98">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="818" y="585" as="sourcePoint" />
             <mxPoint x="832" y="585" as="targetPoint" />
