@@ -304,9 +304,6 @@
         <mxCell id="a6-Lg7otoZ1vh_CwONJT-101" value="Batch&lt;div&gt;Norm&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="952.5" y="550" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="a6-Lg7otoZ1vh_CwONJT-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a6-Lg7otoZ1vh_CwONJT-102" target="a6-Lg7otoZ1vh_CwONJT-101">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="a6-Lg7otoZ1vh_CwONJT-102" value="Conv3d" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="887.5" y="550" width="50" height="50" as="geometry" />
         </mxCell>
@@ -315,6 +312,9 @@
         </mxCell>
         <mxCell id="a6-Lg7otoZ1vh_CwONJT-104" value="&lt;b&gt;Convolution Block&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="815" y="521" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="a6-Lg7otoZ1vh_CwONJT-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.505;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="a6-Lg7otoZ1vh_CwONJT-102" target="a6-Lg7otoZ1vh_CwONJT-101">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
