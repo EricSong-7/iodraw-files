@@ -124,12 +124,6 @@
         <mxCell id="a6-Lg7otoZ1vh_CwONJT-77" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 80px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b style=&quot;font-size: 80px;&quot;&gt;16&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 80px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;: 1 * 721 * 1480&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Times New Roman;fontSize=80;strokeWidth=10;" vertex="1" parent="1">
           <mxGeometry x="5910" y="1390" width="770" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="a6-Lg7otoZ1vh_CwONJT-79" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;endWidth=12.4;endSize=5.524;width=4.8;fontFamily=Times New Roman;fontSize=80;strokeWidth=10;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4956.857211538461" y="1921.9469879518074" as="sourcePoint" />
-            <mxPoint x="5339.988942307693" y="1921.9469879518074" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="a6-Lg7otoZ1vh_CwONJT-81" value="Skip connection" style="whiteSpace=wrap;html=1;strokeColor=none;align=left;fontFamily=Times New Roman;fontSize=80;strokeWidth=10;" vertex="1" parent="1">
           <mxGeometry x="5400" y="2020" width="1280" height="190" as="geometry" />
         </mxCell>
@@ -320,6 +314,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="810" y="258.69000000000005" as="sourcePoint" />
             <mxPoint x="3959.541259615385" y="258.4961445783133" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a6-Lg7otoZ1vh_CwONJT-143" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=30;endSize=29.96470588235294;endWidth=74.11764705882354;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;fontSize=80;strokeWidth=10;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3019.27" y="2795.78" as="sourcePoint" />
+            <mxPoint x="3337.27" y="2796.78" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
