@@ -299,7 +299,7 @@
           <mxGeometry x="1017.5" y="550" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="a6-Lg7otoZ1vh_CwONJT-104" value="&lt;b&gt;Convolution Block&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="812" y="515" width="130" height="20" as="geometry" />
+          <mxGeometry x="810" y="521" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
