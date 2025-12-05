@@ -268,7 +268,7 @@
         <mxCell id="a6-Lg7otoZ1vh_CwONJT-104" value="&lt;b style=&quot;font-size: 80px;&quot;&gt;Convolution Block&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Times New Roman;fontSize=80;" vertex="1" parent="1">
           <mxGeometry x="4988.784855769231" y="3098.6746987951806" width="830.11875" height="127.71084337349397" as="geometry" />
         </mxCell>
-        <mxCell id="a6-Lg7otoZ1vh_CwONJT-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=80;" edge="1" parent="1" source="a6-Lg7otoZ1vh_CwONJT-99" target="a6-Lg7otoZ1vh_CwONJT-98">
+        <mxCell id="a6-Lg7otoZ1vh_CwONJT-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=80;endSize=30;" edge="1" parent="1" source="a6-Lg7otoZ1vh_CwONJT-99" target="a6-Lg7otoZ1vh_CwONJT-98">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5007.941442307692" y="3520.120481927711" as="sourcePoint" />
             <mxPoint x="5097.338846153846" y="3520.120481927711" as="targetPoint" />
