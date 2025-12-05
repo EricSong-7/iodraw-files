@@ -323,7 +323,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="a6-Lg7otoZ1vh_CwONJT-149" value="(&lt;b&gt;Number of Kernels&lt;/b&gt;: time step * latitude * longitude)" style="whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Times New Roman;fontSize=80;strokeWidth=10;" vertex="1" parent="1">
-          <mxGeometry x="713" y="490" width="1800" height="190" as="geometry" />
+          <mxGeometry x="713" y="489" width="1800" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
