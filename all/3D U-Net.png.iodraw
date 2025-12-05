@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Nmmhqq8Bjp_e6A7ZSBZO">
-    <mxGraphModel dx="5173" dy="3887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="7760" dy="5830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,7 +169,7 @@
         <mxCell id="a6-Lg7otoZ1vh_CwONJT-103" value="ReLU" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=80;strokeWidth=10;" vertex="1" parent="1">
           <mxGeometry x="6280" y="3300" width="320" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="a6-Lg7otoZ1vh_CwONJT-104" value="&lt;b style=&quot;font-size: 90px;&quot;&gt;Convolution Block&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Times New Roman;fontSize=90;strokeWidth=10;" vertex="1" parent="1">
+        <mxCell id="a6-Lg7otoZ1vh_CwONJT-104" value="&lt;b style=&quot;font-size: 92px;&quot;&gt;Convolution Block&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Times New Roman;fontSize=92;strokeWidth=10;" vertex="1" parent="1">
           <mxGeometry x="4990" y="3100" width="830" height="130" as="geometry" />
         </mxCell>
         <mxCell id="a6-Lg7otoZ1vh_CwONJT-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=80;endSize=30;strokeWidth=10;" edge="1" parent="1" source="a6-Lg7otoZ1vh_CwONJT-99" target="a6-Lg7otoZ1vh_CwONJT-98">
