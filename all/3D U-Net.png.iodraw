@@ -14,7 +14,7 @@
           <mxGeometry x="40" y="930" width="770" height="450" as="geometry" />
         </mxCell>
         <mxCell id="a6-Lg7otoZ1vh_CwONJT-4" value="&lt;b style=&quot;font-size: 80px;&quot;&gt;8&lt;/b&gt;: m * 721 * 1480" style="whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Times New Roman;fontSize=80;strokeWidth=10;" vertex="1" parent="1">
-          <mxGeometry x="40" y="490" width="770" height="190" as="geometry" />
+          <mxGeometry x="40" y="493" width="770" height="190" as="geometry" />
         </mxCell>
         <mxCell id="a6-Lg7otoZ1vh_CwONJT-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 80px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b style=&quot;font-size: 80px;&quot;&gt;16&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 80px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;: m * 721 * 1480&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Times New Roman;fontSize=80;strokeWidth=10;" vertex="1" parent="1">
           <mxGeometry x="40" y="1390" width="770" height="190" as="geometry" />
@@ -323,7 +323,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="a6-Lg7otoZ1vh_CwONJT-149" value="(&lt;b&gt;Number of Kernels&lt;/b&gt;: time step * latitude * longitude)" style="whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Times New Roman;fontSize=80;strokeWidth=10;" vertex="1" parent="1">
-          <mxGeometry x="713" y="490" width="1800" height="190" as="geometry" />
+          <mxGeometry x="713" y="491" width="1800" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
