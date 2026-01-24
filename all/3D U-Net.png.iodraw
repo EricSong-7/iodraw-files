@@ -154,7 +154,7 @@
           <mxGeometry x="5870" y="3300" width="320" height="320" as="geometry" />
         </mxCell>
         <mxCell id="a6-Lg7otoZ1vh_CwONJT-102" value="Conv3d" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=80;strokeWidth=10;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="5450" y="3300" width="320" height="320" as="geometry" />
+          <mxGeometry x="5030" y="3300" width="320" height="320" as="geometry" />
         </mxCell>
         <mxCell id="a6-Lg7otoZ1vh_CwONJT-103" value="ReLU" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=80;strokeWidth=10;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="6280" y="3300" width="320" height="320" as="geometry" />
