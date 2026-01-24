@@ -137,7 +137,7 @@
           <mxGeometry x="5400" y="2510" width="1280" height="190" as="geometry" />
         </mxCell>
         <mxCell id="a6-Lg7otoZ1vh_CwONJT-93" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=80;strokeWidth=10;" parent="1" vertex="1">
-          <mxGeometry x="4130" y="3040" width="2550" height="640" as="geometry" />
+          <mxGeometry x="4960" y="3040" width="1720" height="640" as="geometry" />
         </mxCell>
         <mxCell id="a6-Lg7otoZ1vh_CwONJT-96" value="&lt;span style=&quot;color: rgb(25, 27, 31); background-color: rgb(255, 255, 255); font-size: 80px;&quot;&gt;Adaptive average pooling&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;align=left;fontFamily=Times New Roman;fontSize=80;strokeWidth=10;" parent="1" vertex="1">
           <mxGeometry x="5400" y="2710" width="1280" height="190" as="geometry" />
@@ -160,7 +160,7 @@
           <mxGeometry x="6280" y="3300" width="320" height="320" as="geometry" />
         </mxCell>
         <mxCell id="a6-Lg7otoZ1vh_CwONJT-104" value="&lt;b style=&quot;font-size: 92px;&quot;&gt;Convolution Block&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Times New Roman;fontSize=92;strokeWidth=10;" parent="1" vertex="1">
-          <mxGeometry x="4990" y="3100" width="830" height="130" as="geometry" />
+          <mxGeometry x="5585" y="3100" width="830" height="130" as="geometry" />
         </mxCell>
         <mxCell id="a6-Lg7otoZ1vh_CwONJT-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=80;endSize=30;strokeWidth=10;fontFamily=Times New Roman;" parent="1" source="a6-Lg7otoZ1vh_CwONJT-99" edge="1">
           <mxGeometry relative="1" as="geometry">
