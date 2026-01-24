@@ -160,7 +160,7 @@
           <mxGeometry x="6300" y="3300" width="320" height="320" as="geometry" />
         </mxCell>
         <mxCell id="a6-Lg7otoZ1vh_CwONJT-104" value="&lt;b style=&quot;font-size: 92px;&quot;&gt;Convolution Block&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Times New Roman;fontSize=92;strokeWidth=10;" parent="1" vertex="1">
-          <mxGeometry x="5400" y="3100" width="830" height="130" as="geometry" />
+          <mxGeometry x="5405" y="3110" width="830" height="130" as="geometry" />
         </mxCell>
         <mxCell id="a6-Lg7otoZ1vh_CwONJT-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=80;endSize=30;strokeWidth=10;fontFamily=Times New Roman;" parent="1" source="a6-Lg7otoZ1vh_CwONJT-99" edge="1">
           <mxGeometry relative="1" as="geometry">
